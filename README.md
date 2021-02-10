@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Justin's Github Status]
+(https://github-readme-stats.vercel.app/api?username=jc-frc725&show_icons=true&theme=white)
 <!--
 **jc-frc725/jc-frc725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
