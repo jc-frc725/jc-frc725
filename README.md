@@ -31,5 +31,5 @@ Shoot me a message! I'm always willing to make something cool.
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jc-frc725&show_icons=true&theme=tokyonight" alt="Justin's Github Status">
+  <img src="https://github-readme-stats.vercel.app/api?username=jc-frc725&show_icons=true&theme=chartreuse-dark" alt="Justin's Github Status">
 
