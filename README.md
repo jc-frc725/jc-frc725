@@ -1,6 +1,6 @@
-### Hello! I'm Justin Chow, a Software Engineer. 
-### I'm looking for opportunities to learn more about web development and UX.
-Shoot me a message! I'm always willing to make something cool.
+### Hello and welcome!
+My projects are listed below. I'm always willing to make something cool. I like video games, web development, coffee, and m e m e s. 
+UX is cool too!
 <img align="right" src="img/triforce.gif" width="200">
 ### Contact me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/jchow1132/)
@@ -29,6 +29,7 @@ Shoot me a message! I'm always willing to make something cool.
   <img alt="CircleCi" src= "https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=CircleCI"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=FF9900"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jc-frc725&show_icons=true&theme=chartreuse-dark" alt="Justin's Github Status">
