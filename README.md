@@ -4,7 +4,7 @@ My projects are listed below. I'm always willing to make something cool. I like 
 UX is cool too!
 <img align="right" src="img/triforce.gif" width="200">
 ### Contact me:
-[![Linkedin Badge](https://img.shields.io/badge/-jchow1132-black?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/jchow1132/)
+![Linkedin Badge](https://img.shields.io/badge/-jchow1132-black?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/jchow1132/)
 
 #### Front end
 <p>
